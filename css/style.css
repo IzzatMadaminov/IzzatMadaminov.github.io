@@ -341,7 +341,7 @@ h5.subtitle {
     min-height: 600px;
     background: url('../images/banner-01.jpg');
     transform: 270deg;
-    background-position: center center;
+    background-position: center center !important;
     background-size: cover;
     overflow: hidden;
     position: relative;
