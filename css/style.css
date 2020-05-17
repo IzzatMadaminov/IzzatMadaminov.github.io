@@ -341,15 +341,12 @@ h5.subtitle {
     min-height: 600px;
     background: url('../images/banner-01.jpg');
     transform: 270deg;
+    background-position: center center;
     background-size: cover;
     overflow: hidden;
     position: relative;
     z-index: 2;
 }
-@media screen and (max-width: 768px){
-    .home-area{
-
-    }
 }
 /* Tablet (landscape) */
 @media screen and (min-width: 991px) {
