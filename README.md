@@ -1,1 +1,1 @@
-# IzzatMadaminov.github.io
+# www.izzatMadaminov.github.io
